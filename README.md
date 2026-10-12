@@ -1,8 +1,8 @@
 # Wai Hang Wong
 
-**AI agents · Embodied interfaces · Human-AI interaction**
+**AI agents · Embodied interfaces · Video storytelling · Research tools**
 
-WHU AI → THU SIGS AI. I build interactive systems that turn language-model capabilities into useful tools—from virtual avatars and basketball video stories to personal writing and robotics communities.
+Graduate student in Artificial Intelligence at Tsinghua SIGS, following undergraduate studies in AI at Wuhan University (2022–2026). I build interactive systems that turn language-model capabilities into useful tools—from virtual avatars and basketball video stories to personal writing, research workflows, and robotics communities.
 
 [Personal homepage](https://timesbye.github.io/waihangwong.github.io/) · [Explore all projects](https://timesbye.github.io/waihangwong.github.io/#projects) · [Email](mailto:2022312111106@whu.edu.cn)
 
